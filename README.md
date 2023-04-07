@@ -1,1 +1,3 @@
-# zintpavowj-Zero_Trust_Score-based_Network_Level_AC_PIP
+# Zero Trust Score-based Network Level Access Control
+
+# Policy Information Point Implementation

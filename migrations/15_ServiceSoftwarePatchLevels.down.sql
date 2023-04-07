@@ -1,0 +1,1 @@
+DROP TABLE IF EXISTS service_software_patch_levels;
